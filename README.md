@@ -48,3 +48,5 @@ The app creates `foodrescue.db` locally the first time it runs. The database is 
 ## Current scope
 
 This is an educational MVP. It does not automatically contact organizations, arrange transport, or certify food safety. Future improvements could include user authentication, verified organizations, notification workflows, and a map view.
+
+# FoodRescue AI
