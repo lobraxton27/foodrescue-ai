@@ -1,13 +1,14 @@
-# Local database (may contain private or test data)
-foodrescue.db
-*.db
-
-# Python
 __pycache__/
 *.py[cod]
 .venv/
 venv/
+env/
+foodrescue.db
+*.sqlite
+*.sqlite3
+*.db
 .env
-
-# Streamlit
 .streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
