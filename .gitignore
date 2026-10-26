@@ -1,0 +1,13 @@
+# Local database (may contain private or test data)
+foodrescue.db
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
